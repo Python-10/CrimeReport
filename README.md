@@ -1,3 +1,4 @@
+# For the execution process please refer to Process.doc
 # CrimeReport
 ## Project Description
 The project is about analyzing Campus Crime Data of more than 50 Universities across 20+ cities all over US in order to help students choose universities by providing more insights of campus crime.
