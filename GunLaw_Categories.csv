@@ -1,0 +1,22 @@
+state,Categories,
+Pennsylvania,Moderate,5
+Arizona,Moderate,2
+Colorado,Moderate,3
+Delaware,Moderate,1
+Virginia,Moderate,1
+Washington,Moderate,1
+Oregon,No_Laws,4
+Mississippi,No_Laws,1
+Utah,No_Laws,1
+Wisconsin,No_Laws,1
+New York,Prohibted,6
+Ohio,Prohibted,1
+Illinois,Prohibted,5
+California,Prohibted,5
+Michigan,Prohibted,1
+Texas,Prohibted,3
+Massachusetts,Prohibted,2
+Georgia,Prohibted,5
+Kentucky,No_Laws,1
+Maryland,Prohibted,1
+,,50
