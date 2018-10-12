@@ -1,1 +1,1 @@
-This folder contains all the data downloaded from https://ope.ed.gov/campussafety/#/
+This folder contains all the data files downloaded from https://ope.ed.gov/campussafety/#/
