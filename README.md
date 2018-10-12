@@ -34,6 +34,6 @@ https://www.theguardian.com/world/interactive/2013/jan/15/gun-laws-united-states
 full_data_final.csv: file includes all data from all the 50 universities;
 full_data_VAWA.csv: file includes VAWA crime data of 50 universities;
 city_data_final.csv: file includes all the data about city crime from web scraping;
-city_plot.csv: average city crime by years, used to plot the comparison graph of universities vs. cities
+city_plot.csv: average city crime by years, used to plot the comparison graph of universities vs. cities;
 University_location.csv: created by merge json file got from API, show the latitude and longitude of Universities
 
