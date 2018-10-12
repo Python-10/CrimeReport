@@ -39,4 +39,6 @@ full_data_VAWA.csv: file includes VAWA crime data of 50 universities;
 city_data_final.csv: file includes all the data about city crime from web scraping;
 city_plot.csv: average city crime by years, used to plot the comparison graph of universities vs. cities;
 University_location.csv: created by merge json file got from API, show the latitude and longitude of Universities
-
+### Gun Violence data file
+Google drive link to Gun Violence data. As it is over 150MB and couldn't upload it to GitHub. We placed it on Google Drive.
+https://drive.google.com/open?id=1YCA9yp8AT3H1SKwKevvl1gmvgKHaA5Ug
