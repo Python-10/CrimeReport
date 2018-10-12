@@ -23,6 +23,9 @@ Gundata_Analysis.ipynb
 ### Women Friendly App - Analysis VAWA Crime
 file:
 dataparse_university_data.ipynb
+### Ranking
+file:
+Ranking.ipynb
 ## Other files break down
 ### files manually created to make up the gap between datasets
 University_Folder.csv: university list;
