@@ -14,8 +14,8 @@ file:
 Crime Trend - Python Project.ipynb
 ### Universities vs. Cities
 file:
-Web Scraping City Data.ipynb
-University_location_from_API.ipynb
+Web Scraping City Data.ipynb;
+University_location_from_API.ipynb;
 University vs. City.ipynb
 ### Gun Regulation Effect on Crime
 file:
