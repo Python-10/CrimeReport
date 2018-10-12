@@ -1,0 +1,32 @@
+Survey year,Unitid,Institution name,Campus ID, Campus Name,Institution Size,Murder/Non-negligent manslaughter,Negligent manslaughter,Sex offenses - Forcible,Rape,Fondling,Sex offenses - Non-forcible,Incest,Statutory rape,Robbery,Aggravated assault,Burglary,Motor vehicle theft,Arson
+2001,147767,Northwestern University,1,Main Campus,17000,0,0,0,,,0,,,0,0,0,0,0
+2001,147767,Northwestern University,2,Chicago Campus,17000,0,0,0,,,0,,,0,0,0,0,0
+2006,147767,Northwestern University,2,Chicago Campus,18486,0,0,0,,,0,,,0,0,0,0,0
+2007,147767,Northwestern University,2,Chicago Campus,19005,0,0,0,,,0,,,0,0,0,0,0
+2008,147767,Northwestern University,1,Main Campus,19291,0,0,0,,,0,,,0,0,0,0,0
+2008,147767,Northwestern University,2,Chicago Campus,19291,0,0,0,,,0,,,0,0,0,0,0
+2009,147767,Northwestern University,1,Main Campus,19853,0,0,0,,,0,,,0,0,0,0,0
+2009,147767,Northwestern University,2,Chicago Campus,19853,0,0,0,,,0,,,0,0,0,0,0
+2010,147767,Northwestern University,1,Main Campus,20481,0,0,0,,,0,,,0,0,0,0,0
+2010,147767,Northwestern University,2,Chicago Campus,20481,0,0,0,,,0,,,0,0,0,0,0
+2011,147767,Northwestern University,1,Main Campus,20959,0,0,0,,,0,,,0,0,0,0,0
+2011,147767,Northwestern University,2,Chicago Campus,20959,0,0,0,,,0,,,0,0,0,0,0
+2012,147767,Northwestern University,1,Main Campus,21215,0,0,0,,,0,,,1,0,3,0,0
+2012,147767,Northwestern University,2,Chicago Campus,21215,0,0,0,,,0,,,0,0,0,0,0
+2012,147767,Northwestern University,5,Education City- Qatar,21215,0,0,0,,,0,,,0,0,0,0,0
+2013,147767,Northwestern University,1,Main Campus,21592,0,0,0,,,0,,,1,0,0,1,0
+2013,147767,Northwestern University,2,Chicago Campus,21592,0,0,0,,,0,,,0,0,0,2,0
+2013,147767,Northwestern University,3,Kellogg's Miami Campus,21592,0,0,0,,,0,,,0,0,0,0,0
+2013,147767,Northwestern University,5,Education City- Qatar,21592,0,0,0,,,0,,,0,0,0,0,0
+2014,147767,Northwestern University,1,Main Campus,21554,0,0,,0,1,,0,0,0,0,2,0,0
+2014,147767,Northwestern University,2,Chicago Campus,21554,0,0,,0,0,,0,0,0,0,1,0,0
+2014,147767,Northwestern University,3,Kellogg's Miami Campus,21554,0,0,,0,0,,0,0,0,0,0,0,0
+2014,147767,Northwestern University,5,Education City- Qatar,21554,0,0,,0,0,,0,0,0,0,0,0,0
+2015,147767,Northwestern University,1,Main Campus,21655,0,0,,0,0,,0,0,0,0,0,2,0
+2015,147767,Northwestern University,2,Chicago Campus,21655,0,0,,0,0,,0,0,0,0,0,0,0
+2015,147767,Northwestern University,3,Kellogg's Miami Campus,21655,0,0,,0,0,,0,0,0,0,0,0,0
+2015,147767,Northwestern University,5,Education City- Qatar,21655,0,0,,0,0,,0,0,0,0,0,0,0
+2016,147767,Northwestern University,1,Main Campus,21823,0,0,,0,0,,0,0,0,1,1,5,0
+2016,147767,Northwestern University,2,Chicago Campus,21823,0,0,,0,0,,0,0,0,0,1,0,0
+2016,147767,Northwestern University,3,Kellogg's Miami Campus,21823,0,0,,0,0,,0,0,0,0,0,0,0
+2016,147767,Northwestern University,5,Education City- Qatar,21823,0,0,,0,0,,0,0,0,0,0,0,0
